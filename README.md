@@ -4,6 +4,12 @@
 
 This repository contains an exploratory data analysis (EDA) and visualization project of Amazon sales data. The goal is to uncover insights and present key metrics through a Tableau dashboard.
 
+## Dashboard
+
+<p align="center">
+  <img src="./Project documentation/ProjectArchitecture.png" width="600" title="Architecture" alt="Architecture">
+  </p>
+
 ## Project Overview
 
 The project includes the following steps:
