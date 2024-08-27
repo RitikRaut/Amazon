@@ -7,7 +7,7 @@ This repository contains an exploratory data analysis (EDA) and visualization pr
 ## Dashboard
 
 <p align="center">
-  <img src="./Project documentation/ProjectArchitecture.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./image/Screenshot 2024-08-26 at 8.10.04 PM.png" width="600" title="Architecture" alt="Architecture">
   </p>
 
 ## Project Overview
