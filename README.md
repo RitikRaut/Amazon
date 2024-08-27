@@ -11,29 +11,10 @@ The project includes the following steps:
 2. **Exploratory Data Analysis (EDA)**: Using Python to understand data distributions, relationships, and outliers.
 3. **Visualization**: Creating a Tableau dashboard to represent key insights and metrics.
 
-## Repository Structure
 
-```
-amazon-sales-analysis/
-│
-├── data/
-│   ├── processed/
-│ 
-├── notebooks/
-│   ├── EDA.ipynb
-│
-├── tableau/
-│   ├── Amazon_Sales_Dashboard.twbx
-|
-├── images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
-```
-
-- **data/**: Contains the processed dataset.
-- **notebooks/**: Jupyter notebooks used for data cleaning and exploratory data analysis.
-- **tableau/**: Tableau workbook file containing the dashboard.
+- **Amazon sales/**: Contains the processed dataset.
+- **Amazon_sales_data_analyis.ipynb/**: Jupyter notebooks used for data cleaning and exploratory data analysis.
+- Tableau workbook file containing the dashboard.
 - **images/**: Screenshot of the Tableau dashboard.
 
 
