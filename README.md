@@ -31,5 +31,3 @@ The Tableau dashboard provides the following insights:
 - Monthly sales trends.
 - Geographic distribution of sales.
 - Top-performing products.
-
-![Dashboard Screenshot](images/dashboard_screenshot.png)
